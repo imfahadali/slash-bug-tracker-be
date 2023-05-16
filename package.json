@@ -1,0 +1,29 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www/server.js",
+    "dev" : "nodemon ./bin/www/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "migrate": "prisma migrate dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^4.8.0",
+    "aws-sdk": "^2.1338.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "normalize-port": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "prisma": "^4.8.0"
+  }
+}
