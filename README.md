@@ -1,6 +1,6 @@
 # Slash Bug Tracking Tool
 
-![](https://github.com/imfahadali/netflix-frontend-mern/blob/main/public/netflix-app.gif)
+![](https://github.com/imfahadali/slash-bug-tracker/blob/main/public/bug-tracker-optimize.gif)
 
 Slash is a comprehensive bug tracking tool designed to streamline project management and issue tracking. With Slash, you can efficiently create projects, add authors to your projects, create tickets, assign tickets to authors, and analyze user activity. This README file provides an overview of the features, tools used, and instructions to get started with Slash.
 
